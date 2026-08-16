@@ -28,6 +28,24 @@ window.PUBLICATIONS = [
   },
   {
     year: "2026",
+    type: {en: "Conference paper", fr: "Article de conférence"},
+    title: "5G-TSN Time Synchronization: An Empirical Study",
+    authors: "Minh-Thuyen Thi, Mohamed El Amine Chabane, Siwar Ben Hadj Said",
+    venue: "IEEE WCNC 2026",
+    url: "https://ieeexplore.ieee.org/abstract/document/11555730",
+    tags: ["5G", "Time-sensitive Networking", "802.1AS", "TSN Translators"]
+  },
+  {
+    year: "2026",
+    type: {en: "Accepted paper", fr: "Article accepté"},
+    title: "Learning-Assisted Configuration for Deterministic Communications in Time-Sensitive Networks ",
+    authors: "Mohamed El Amine Chabane, Siwar Ben Hadj Said, Mireille Sarkiss",
+    venue: "ETR",
+    url: "https://etr2026.ensma.fr/",
+    tags: ["TSN", "Deep Q_learning", "Scheduling"]
+  },
+  {
+    year: "2026",
     type: {en: "Conference communication", fr: "Communication en congrès"},
     title: "Optimisation de l'ordonnancement IEEE 802.1Qbv dans les réseaux TSN par Q-learning",
     authors: "Mohamed El Amine Chabane, Siwar Ben Hadj Said, Mireille Sarkiss",
