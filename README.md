@@ -9,6 +9,7 @@ Static, bilingual academic website designed for Vercel.
 - Main biography, teaching and background: `index.html`
 - Portrait: replace `assets/mohamed-el-amine-chabane.jpg` while keeping the same filename
 
+
 ## Add a publication
 
 Open `data/publications.js`, copy one publication block, paste it at the top of the array and change:
