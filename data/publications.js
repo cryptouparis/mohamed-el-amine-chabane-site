@@ -14,7 +14,7 @@ window.PUBLICATIONS = [
     title: "Q-Learning Approach for Gate Control List Scheduling in Time-Sensitive Networks",
     authors: "Mohamed El Amine Chabane, Siwar Ben Hadj Said, Mireille Sarkiss",
     venue: "IEEE/IFIP NOMS 2026 · Rome, Italy",
-    url: "https://fr.linkedin.com/in/mohamed-el-amine-chabane",
+    url: "https://hal.science/hal-05687132v1",
     tags: ["Q-Learning", "IEEE 802.1Qbv", "GCL"]
   },
   {
@@ -23,7 +23,7 @@ window.PUBLICATIONS = [
     title: "Deterministic Communications for Future Networks",
     authors: "Mohamed El Amine Chabane",
     venue: "IEEE/IFIP NOMS 2026 · Doctoral Symposium",
-    url: "https://fr.linkedin.com/in/mohamed-el-amine-chabane",
+    url: "https://hal.science/hal-05687138v1",
     tags: ["Future Networks", "Deterministic Networking"]
   },
   {
