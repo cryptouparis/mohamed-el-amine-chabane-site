@@ -5,7 +5,7 @@ window.PUBLICATIONS = [
     title: "Scalable End-to-End TSN Scheduling via Multi-Head Deep Q-Network",
     authors: "Mohamed El Amine Chabane, Siwar Ben Hadj Said, Mireille Sarkiss",
     venue: "IEEE LCN 2026",
-    url: "https://www.ieeelcn.org/Program_Papers.html",
+    url: "https://ieeexplore.ieee.org/document/11660780",
     tags: ["TSN", "Deep RL", "Scheduling"]
   },
   {
